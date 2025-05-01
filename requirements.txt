@@ -1,5 +1,8 @@
-torch
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 transformers
 pillow
 numpy
 requests
+opencv-python
+tqdm
+pynvml

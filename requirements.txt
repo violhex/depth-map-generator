@@ -6,3 +6,7 @@ requests
 opencv-python
 tqdm
 pynvml
+bitsandbytes
+accelerate
+psutil
+pywin32; sys_platform == 'win32'

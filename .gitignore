@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+inputs/
+outputs/
+
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mkv
